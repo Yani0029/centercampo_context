@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CenterCampo context feature.
+ */
+
+include_once 'centercampo_context.features.inc';
